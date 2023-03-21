@@ -18,4 +18,13 @@
 	_putchar('r');
 	_putchar('\n');
 	return (0);
-	}
+	i}
+/* This program prints the word "Hello" to the console */
+int main() {
+  putchar('H');
+  putchar('e');
+  putchar('l');
+  putchar('l');
+  putchar('o');
+  return 0;
+}
